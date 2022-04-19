@@ -10,7 +10,7 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 En este curso espero aprender sobre:
 
-- Github y githubAprender sobre backend
+- Github y github
 - Aprender sobre backend
 - Poner en practica mi frontend
 
