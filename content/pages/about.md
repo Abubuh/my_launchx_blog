@@ -2,20 +2,16 @@
 title: 'About me'
 menu:
   main:
-    name: "AboutMe"
+    name: "About Me"
 ---
 
 ## Who am I
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+Hola, aquí te hablare un poco sobre mi persona y mis gustos
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Mi nombre es Cristian y tengo 22 años.
+> Actualmente estudio Ing. Mecatronica pero estoy dandome una oportunidad como programador.
+> Mis pasatiempos favoritos son los videojuegos y bañarme.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+**¿Qué espero de esto?** Una de mis metas de vida es el crecer como persona y un factor que me hace sentir estancado es el lado de trabajo. En esta aventura como programador espero pueda crecer a un grado en el cual pueda sentirme bien conmigo mismo y vivir en paz. En mi poco tiempo de experiencia he aprendido las cosas con cariño y los problemas que he logrado resolver me llenan de satisfacción y de motivación. Espero crecer tanto y lograr desarrollarme profesionalmente para estar bien y que ese sentimiento de satisfacción siempre este ahí.
 
